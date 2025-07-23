@@ -15,6 +15,6 @@ if (st.button("Predict the score")):
         "attendance":atd,
         "gender_Male":gender
     }
-    res=requests.post("http://127.0.0.1:8000/predict",json=data)
+    res=requests.post("https://abc-stud-1.onrender.com//predict",json=data)
     result=res.json()
     st.write("The Predicted Score is ",result["Predicted_score"])
