@@ -1,0 +1,101 @@
+ID,COMMENT,SENTIMENT,TOPIC,USER_LOCATION,VIDEO_LENGTH_MIN
+1,I was expecting more details.,0,Data Science,Australia,30
+2,Brilliant walkthrough of the topic.,1,Data Science,India,5
+3,"Useless video, please remove it.",-1,Deep Learning,Canada,10
+4,Disliked and unsubscribed.,-1,Machine Learning,Canada,5
+5,Thanks for the clear explanation.,1,Machine Learning,USA,15
+6,"Useless video, please remove it.",-1,Deep Learning,Germany,20
+7,I was expecting more details.,0,Machine Learning,UK,5
+8,You missed so many important points.,-1,NLP,USA,10
+9,"Perfect explanation, thanks a ton!",1,Data Science,UK,10
+10,I was expecting more details.,0,LLMs,India,25
+11,"Neutral opinion, needs improvement.",0,Deep Learning,UK,5
+12,"Neutral opinion, needs improvement.",0,NLP,Canada,25
+13,"Waste of time, very disappointed.",-1,LLMs,Canada,30
+14,Disliked and unsubscribed.,-1,NLP,UK,25
+15,I was expecting more details.,0,NLP,Canada,5
+16,I’m not sure how I feel about this video.,0,Deep Learning,Germany,15
+17,"Amazing video, I learned so much!",1,Data Science,USA,30
+18,Thanks for the clear explanation.,1,LLMs,Australia,20
+19,You missed so many important points.,-1,LLMs,Germany,5
+20,Crystal clear and straight to the point.,1,LLMs,Canada,5
+21,"Useless video, please remove it.",-1,NLP,UK,5
+22,Brilliant walkthrough of the topic.,1,LLMs,UK,10
+23,"Amazing video, I learned so much!",1,Data Science,Canada,5
+24,"Perfect explanation, thanks a ton!",1,Deep Learning,Canada,10
+25,"Waste of time, very disappointed.",-1,NLP,UK,30
+26,"Amazing video, I learned so much!",1,NLP,UK,5
+27,"Neutral opinion, needs improvement.",0,Deep Learning,Canada,15
+28,This is exactly what I was looking for.,1,Deep Learning,UK,25
+29,Thanks for the clear explanation.,1,Data Science,Australia,20
+30,"Useless video, please remove it.",-1,Deep Learning,India,25
+31,Not helpful at all.,-1,LLMs,USA,25
+32,Disliked and unsubscribed.,-1,Machine Learning,India,5
+33,"Waste of time, very disappointed.",-1,Machine Learning,USA,25
+34,Can you upload more videos on this topic?,0,LLMs,UK,20
+35,"It's neither great nor bad, somewhere in the middle.",0,Machine Learning,India,10
+36,"Waste of time, very disappointed.",-1,Data Science,Australia,10
+37,"Neutral opinion, needs improvement.",0,NLP,Canada,25
+38,Can you upload more videos on this topic?,0,Deep Learning,Germany,25
+39,This helped a bit.,0,NLP,India,5
+40,This helped a bit.,0,Deep Learning,Canada,15
+41,Completely unclear and disorganized.,-1,NLP,USA,5
+42,Completely unclear and disorganized.,-1,Data Science,India,15
+43,I’m not sure how I feel about this video.,0,LLMs,Germany,10
+44,"Neutral opinion, needs improvement.",0,Data Science,USA,30
+45,"Useless video, please remove it.",-1,Data Science,Australia,15
+46,"Great content, very helpful.",1,Data Science,Germany,20
+47,"It's neither great nor bad, somewhere in the middle.",0,Data Science,India,20
+48,Completely unclear and disorganized.,-1,LLMs,Germany,10
+49,Terrible presentation style.,-1,LLMs,UK,15
+50,"It's neither great nor bad, somewhere in the middle.",0,Machine Learning,India,5
+51,"Neutral opinion, needs improvement.",0,LLMs,USA,20
+52,"Perfect explanation, thanks a ton!",1,Data Science,India,10
+53,"This topic is interesting, but not deeply covered.",0,NLP,Canada,15
+54,I was expecting more details.,0,Machine Learning,Germany,15
+55,Loved it! Keep up the good work.,1,Data Science,UK,25
+56,"Amazing video, I learned so much!",1,Deep Learning,Germany,25
+57,"Very poor explanation, totally confused.",-1,Machine Learning,UK,25
+58,I’m not sure how I feel about this video.,0,NLP,India,25
+59,I’m not sure how I feel about this video.,0,NLP,Canada,10
+60,I’m not sure how I feel about this video.,0,LLMs,USA,20
+61,This is exactly what I was looking for.,1,NLP,Australia,5
+62,I’m not sure how I feel about this video.,0,Machine Learning,India,25
+63,This is exactly what I was looking for.,1,Machine Learning,Australia,5
+64,"It's neither great nor bad, somewhere in the middle.",0,NLP,Germany,25
+65,"Thanks, but can you also cover advanced parts?",0,Deep Learning,USA,5
+66,Thanks for the clear explanation.,1,Data Science,UK,25
+67,"This topic is interesting, but not deeply covered.",0,Machine Learning,India,5
+68,"Amazing video, I learned so much!",1,LLMs,Germany,20
+69,"Great content, very helpful.",1,Deep Learning,UK,15
+70,Can you upload more videos on this topic?,0,Data Science,Canada,10
+71,This helped a bit.,0,Machine Learning,India,30
+72,Disliked and unsubscribed.,-1,Data Science,USA,25
+73,You missed so many important points.,-1,Machine Learning,USA,5
+74,"Neutral opinion, needs improvement.",0,Data Science,UK,10
+75,"Average content, might be useful for beginners.",0,NLP,Australia,25
+76,"Great content, very helpful.",1,Data Science,Canada,30
+77,Can you upload more videos on this topic?,0,NLP,USA,30
+78,"It was okay, not too good or bad.",0,LLMs,Australia,10
+79,Subscribed right away after watching this!,1,LLMs,Australia,30
+80,"It was okay, not too good or bad.",0,Deep Learning,Germany,25
+81,Crystal clear and straight to the point.,1,Data Science,Australia,25
+82,You missed so many important points.,-1,Data Science,India,25
+83,"Waste of time, very disappointed.",-1,NLP,Australia,25
+84,I’m not sure how I feel about this video.,0,Data Science,India,20
+85,Completely unclear and disorganized.,-1,LLMs,UK,15
+86,Thanks for the clear explanation.,1,Machine Learning,UK,5
+87,Worst video I’ve seen on this topic.,-1,Deep Learning,Germany,5
+88,"Great content, very helpful.",1,LLMs,Canada,5
+89,I didn’t get anything from this.,-1,Deep Learning,USA,20
+90,"Neutral opinion, needs improvement.",0,NLP,India,10
+91,I didn’t get anything from this.,-1,Machine Learning,India,25
+92,Brilliant walkthrough of the topic.,1,Deep Learning,Canada,15
+93,You missed so many important points.,-1,NLP,UK,5
+94,This is exactly what I was looking for.,1,NLP,Germany,30
+95,"It's neither great nor bad, somewhere in the middle.",0,LLMs,Germany,20
+96,Subscribed right away after watching this!,1,Deep Learning,Australia,5
+97,I didn’t get anything from this.,-1,LLMs,Germany,5
+98,Completely unclear and disorganized.,-1,Data Science,Australia,5
+99,Worst video I’ve seen on this topic.,-1,Deep Learning,UK,10
+100,"Average content, might be useful for beginners.",0,NLP,UK,20
