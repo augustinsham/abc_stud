@@ -1,0 +1,24 @@
+import pandas as pd
+import numpy as np
+
+# Create full-year data for 2024
+date_range = pd.date_range(start="2024-01-01", end="2024-12-31", freq='D')
+np.random.seed(42)
+
+usage = (
+    12 + 5 * np.sin(2 * np.pi * date_range.dayofyear / 365) +
+    np.random.normal(0, 2, len(date_range))
+)
+usage = np.clip(usage, 8, 30)
+usage = np.round(usage, 2)
+
+df = pd.DataFrame({
+    "Date": date_range,
+    "Appliance_Usage_kWh": usage
+})
+
+# Save as CSV
+df.to_csv("residential_energy_usage.csv", index=False)
+
+from google.colab import files
+files.download("residential_energy_usage.csv")
